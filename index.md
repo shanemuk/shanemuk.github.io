@@ -5,7 +5,7 @@ Medical Doctor specialising in Genetic and Genomic Medicine
 ## Personal
 Living in Northern Ireland, walking a beagle, riding a bike
 ## Social Media
-![http://twitter.com/shanemuk](Twitter)
+![Twitter: @shanemuk](http://twitter.com/shanemuk)
 ## Language
 Arabic: https://github.com/shanemuk/shanemuk.github.io/blob/main/arabic.md
 
