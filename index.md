@@ -1,4 +1,4 @@
-# Dr Shane McKee MD FRCP(UK)
+# Dr Shane McKee MD FRCP Edin
 
 ## Professional
 Medical Doctor specialising in Genetic and Genomic Medicine
