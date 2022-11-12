@@ -1,15 +1,17 @@
 # Dr Shane McKee MD FRCP Edin
-<html><img size=400 src="https://github.com/shanemuk/shanemuk.github.io/blob/main/shaneprofile1.jpg">
+<html><img width=300 src="https://github.com/shanemuk/shanemuk.github.io/blob/main/shaneprofile1.jpg">
 </html>
 
 ## Professional
-> Medical Doctor specialising in Genetic and Genomic Medicine
+> I'm a Medical Doctor specialising in **Genetic and Genomic Medicine**. I'm Deputy Chief Clinical Information Officer for our Trust, and part of a great team working to implement the **encompass** project across Northern Ireland - a region-wide Electronic Health Record that will transform the delivery of care.
+>  
 ## Personal
-* Living in Northern Ireland, walking a beagle, riding a bike
+> Living in Northern Ireland, walking a beagle, riding a bike
+
 ## Social Media
 * [Twitter: @shanemuk](https://twitter.com/shanemuk)
 * <html><a rel="me" href="https://mastodon.ie/@Shanemuk">@shanemuk@Mastodon.ie</a></html>
 
 ## Languages
-* [Arabic](https://github.com/shanemuk/shanemuk.github.io/blob/main/arabic.md)
+* I'm learning [Arabic](https://github.com/shanemuk/shanemuk.github.io/blob/main/arabic.md) - it's taking a while, but it is a beautiful language and I'm enjoying finding out more.
 
