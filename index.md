@@ -1,5 +1,5 @@
 # Dr Shane McKee MD FRCP Edin
-<html><img width=300 src="https://github.com/shanemuk/shanemuk.github.io/blob/main/shaneprofile1.jpg">
+<html><img width=300 src="/shaneprofile1.jpg">
 </html>
 
 ## Professional
