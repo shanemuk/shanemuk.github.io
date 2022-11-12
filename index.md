@@ -7,11 +7,13 @@
 
 ## Personal
 > Living in Northern Ireland, walking a beagle, riding a bike.
+![Riding a bike through a large puddle in Israel](https://user-images.githubusercontent.com/23620458/201495075-f25cc1b7-fc0b-4232-815b-da8760493f9a.jpg)
 > I have a longstanding connection with the wonderful Nazareth EMMS Hospital in northern Israel, and am a veteran of several Nazareth Challenge bike rides to raise money for the [Nazareth Trust](https://www.nazarethtrust.org/nazareth-challenge/).
 
 ## Social Media
-* [Twitter: @shanemuk](https://twitter.com/shanemuk)
 * <html><a rel="me" href="https://mastodon.ie/@Shanemuk">@shanemuk@Mastodon.ie</a></html>
+* [github.com/shanemuk](https://github.com/shanemuk) - some of my ongoing projects
+* [Twitter: @shanemuk](https://twitter.com/shanemuk) - mostly on Mastodon these days though...
 * [Contact via LinkedIn](https://www.linkedin.com/in/shane-mckee-21976933/)
 
 ## Languages
