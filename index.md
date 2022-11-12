@@ -16,5 +16,6 @@
 
 ## Languages
 * I'm learning [Arabic](https://github.com/shanemuk/shanemuk.github.io/blob/main/arabic.md) - it's taking a while, but it is a beautiful language and I'm enjoying finding out more.
+* I have a smattering of French and German, and am working on-and-off on Hebrew.
 * I strongly recommend [LingQ.com](https://lingq.com) as a solid method to gain skills in a language by *listening*, rather than by learning grammar, and of course you can consolidate this by listening to your chosen language material on YouTube, podcasts etc. I'm afraid Duolingo does **not** work for me.
 
