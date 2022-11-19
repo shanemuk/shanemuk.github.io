@@ -16,6 +16,11 @@
 * [Twitter: @shanemuk](https://twitter.com/shanemuk) - mostly on Mastodon these days though...
 * [Contact via LinkedIn](https://www.linkedin.com/in/shane-mckee-21976933/)
 
+## Talks
+![tedxcookstown](https://user-images.githubusercontent.com/23620458/202871665-0d8ef4b5-3074-4020-9e2a-a0a3f75c3f81.jpg)
+* Watch my TEDxCookstown talk ["Tanks, Bikes and Genes"](https://www.ted.com/talks/dr_shane_mckee_tanks_bikes_genes) (November 2020 - a few things I might change nowadays about this talk, but enjoy.)
+* [The Northern Ireland Electronic Care Record](https://www.youtube.com/watch?v=WmQauD2jBkU) - a very old talk about a project I remain deeply committed to, and I think most of the principles of joining up health information still hold.
+
 ## Languages
 * I'm learning [Arabic](https://github.com/shanemuk/shanemuk.github.io/blob/main/arabic.md) - it's taking a while, but it is a beautiful language and I'm enjoying finding out more.
 * I have a smattering of French and German, and am working on-and-off on Hebrew.
