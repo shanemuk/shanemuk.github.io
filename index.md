@@ -1,5 +1,5 @@
 # Dr Shane McKee MD FRCP Edin
-![Dr Shane McKee profile pic](https://user-images.githubusercontent.com/23620458/201493941-2b1671f0-a1cd-475b-a0b8-f30f1d26e3c2.jpg)
+![Dr Shane McKee profile pic](https://github.com/user-attachments/assets/3eef8f33-ee83-41d0-9af6-83ccd0acad2c)
 
 ## Professional
 > I'm a Medical Doctor specialising in **Genetic and Genomic Medicine**. I'm Deputy Chief Clinical Information Officer for our Trust, and part of a great team working to implement the **encompass** project across Northern Ireland - a region-wide Electronic Health Record that will transform the delivery of care.
@@ -11,7 +11,7 @@
 > I have a longstanding connection with the wonderful Nazareth EMMS Hospital in northern Israel, and am a veteran of several Nazareth Challenge bike rides to raise money for the [Nazareth Trust](https://www.nazarethtrust.org/nazareth-challenge/).
 
 ## Social Media
-* <html><a rel="me" href="https://mastodon.ie/@Shanemuk">@shanemuk@Mastodon.ie</a></html>
+* [@shaneir.bsky.social](https://bsky.app/profile/shaneir.bsky.social) - Bluesky
 * [github.com/shanemuk](https://github.com/shanemuk) - some of my ongoing projects
 * [Twitter: @shanemuk](https://twitter.com/shanemuk) - mostly on Mastodon these days though...
 * [Contact via LinkedIn](https://www.linkedin.com/in/shane-mckee-21976933/)
