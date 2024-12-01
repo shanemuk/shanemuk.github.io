@@ -1,8 +1,9 @@
 # Dr Shane McKee MD FRCP Edin
-![Dr Shane McKee profile pic](https://github.com/user-attachments/assets/3eef8f33-ee83-41d0-9af6-83ccd0acad2c)
+![Dr Shane McKee profile pic](https://github.com/user-attachments/assets/be646cd1-e6bc-4f73-8df6-7477e7037956)
 
 ## Professional
 > I'm a Medical Doctor specialising in **Genetic and Genomic Medicine**. I'm Deputy Chief Clinical Information Officer for our Trust, and part of a great team working to implement the **encompass** project across Northern Ireland - a region-wide Electronic Health Record that will transform the delivery of care.
+> I'm the Northern Ireland Principal Investigator for the UK 100,000 Genomes Project and PI for the DDD-UK project - in both cases trying to find the genetic causes of rare diseases and cancer predisposition syndromes.
 * [ORCID record](https://orcid.org/0000-0002-1772-0106) (publications, grants etc)
 
 ## Personal
