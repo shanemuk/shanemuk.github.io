@@ -14,8 +14,11 @@
 ## Social Media
 * [@shaneir.bsky.social](https://bsky.app/profile/shaneir.bsky.social) - Bluesky
 * [github.com/shanemuk](https://github.com/shanemuk) - some of my ongoing projects
-* [Twitter: @shanemuk](https://twitter.com/shanemuk) - mostly on Mastodon these days though...
 * [Contact via LinkedIn](https://www.linkedin.com/in/shane-mckee-21976933/)
+
+## Psion
+> Back at the turn of the Millennium, Psion palmtop computers were pretty popular, at least in the UK. These little clamshell devices had great keyboards, great on-board apps, and great programmability. Now, in 2025, some aspects seem dated, but they remain exquisite pieces of tech, and fantastic distraction-free writing devices (DFWDs). I still use my Psions in my daily life and work. Why not [take a look at my Psion repository](https://github.com/shanemuk/psion)?
+> ![Image](https://github.com/user-attachments/assets/09d5f580-75b2-43c3-bdb6-367f76786913)
 
 ## Talks
 ![tedxcookstown](https://github.com/user-attachments/assets/a96e62c4-be71-4aa7-8a76-f2b6b1c18bce)
