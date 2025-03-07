@@ -1,5 +1,5 @@
 # Dr Shane McKee MD FRCP Edin
-![Dr Shane McKee profile pic](https://github.com/user-attachments/assets/be646cd1-e6bc-4f73-8df6-7477e7037956)
+<img src="https://github.com/user-attachments/assets/be646cd1-e6bc-4f73-8df6-7477e7037956" align="left" width="300" >
 
 ## Professional
 > I'm a Medical Doctor specialising in **Genetic and Genomic Medicine**. I'm Deputy Chief Clinical Information Officer for our Trust, and part of a great team working to implement the **encompass** project across Northern Ireland - a region-wide Electronic Health Record that will transform the delivery of care.
@@ -18,7 +18,7 @@
 
 ## Psion
 > Back at the turn of the Millennium, Psion palmtop computers were pretty popular, at least in the UK. These little clamshell devices had great keyboards, great on-board apps, and great programmability. Now, in 2025, some aspects seem dated, but they remain exquisite pieces of tech, and fantastic distraction-free writing devices (DFWDs). I still use my Psions in my daily life and work. Why not [take a look at my Psion repository](https://github.com/shanemuk/psion)?
-> ![Image](https://github.com/user-attachments/assets/09d5f580-75b2-43c3-bdb6-367f76786913)
+<img src="https://github.com/user-attachments/assets/09d5f580-75b2-43c3-bdb6-367f76786913" width = 300>
 
 ## Talks
 ![tedxcookstown](https://github.com/user-attachments/assets/a96e62c4-be71-4aa7-8a76-f2b6b1c18bce)
